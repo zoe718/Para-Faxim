@@ -13,14 +13,14 @@ const storySlides = [
   {
     id: 2,
     title: "¿Amarias si duele?",
-    description: "Yo Omar Zoe me empezaste a gusatar desde que entre a tu mismo grupo, ese dia por la mañana sali a tomar sol, te vi salir con una de tus amigas, me puse nervioso y solo te veia desde lejos, esperando a que me devolvieras la mirada, ese dia me le quede viendo a tu sombra, vi que tenias una silueta que me llamo la antencion inmediatamente, parecia una silueta con la que ya habia soñado antes, siempre pense que contarte sobre eso, era demasiado cursi, y lo oculte, hasta ahora, entre mas veia tu sombra mas me hacia ilusiones, entre mas veia tus ojos, entre mas pensaba en eso, mas lo queria ocultar",
+    description: "Yo Omar Zoe me empezaste a gustar desde que entre a tu mismo grupo, ese dia por la mañana sali a tomar sol, te vi salir con una de tus amigas, me puse nervioso y solo te veia desde lejos, esperando a que me devolvieras la mirada, ese dia me le quede viendo a tu sombra, vi que tenias una silueta que me llamo la antencion inmediatamente, parecia una silueta con la que ya habia soñado antes, siempre pense que contarte sobre eso, era demasiado cursi, y lo oculte, hasta ahora, entre mas veia tu sombra mas me hacia ilusiones, entre mas veia tus ojos, entre mas pensaba en eso, mas lo queria ocultar",
     emoji: "❀",
      image: "/images/2.jpg"
   },
   {
     id: 3,
     title: "¿Dejarias todo solo para estar con esa persona?",
-  description: "Con el tiempo fui interactuando un poco mas contigo, simpre me gustaba entrar a dibujo, pensaba en que dirias ese dia, que ibas a platicar, aunque no hablaras mucho, le ponia mas atencion cuando hablabas que a la maestra, ¿un poco tonto no?, pasaban los dias y de ves en cuando hablabas de como te trataban los hombres, los ligues, tomaba nota, buscaba la forma de que vieras que no era igual, creo el tiempo lo demostro, y bueno tambien me empezo a gustar que fuera tu amigo, me gustaba la idea de ser tu mejor amigo, alguien que estaria ahi para lo que sea, ahora mismo siento que tu eres mi mejor amiga y espero que jamas te canses de serlo, aunque tambien te amo y jamas quisiera que dejaras de ser mi chica, nadie me ama como solo tu sabes hacerlo.",
+  description: "Con el tiempo fui interactuando un poco mas contigo, siempre me gustaba entrar a dibujo, pensaba en que dirias ese dia, que ibas a platicar, aunque no hablaras mucho, le ponia mas atencion cuando hablabas que a la maestra, ¿un poco tonto no?, pasaban los dias y de ves en cuando hablabas de como te trataban los hombres, los ligues, tomaba nota, buscaba la forma de que vieras que no era igual, creo el tiempo lo demostro, y bueno tambien me empezo a gustar que fuera tu amigo, me gustaba la idea de ser tu mejor amigo, alguien que estaria ahi para lo que sea, ahora mismo siento que tu eres mi mejor amiga y espero que jamas te canses de serlo, aunque tambien te amo y jamas quisiera que dejaras de ser mi chica, nadie me ama como solo tu sabes hacerlo.",
     emoji: "🌒",
       image: "/images/3.jpg"
   },
@@ -34,7 +34,7 @@ const storySlides = [
   {
     id: 5,
     title: "666",
-    description: "Pasaron los dias y en mi mente pasaban dos cosas, ¿Por qué nadie me llamaba la atencion tanto como ti?, y cual iba a ser la excusa perfecta para volver a salir contigo y no recuerdo pero por alguna razon dije que me debias un helado, ese dia que salimos por el helado, cuando te tomaste una foto con mi celular, era una foto de tus ojos, ver tus ojos siempre me han fasinado, asi estes enojada, feliz o triste siempre me va a gustar que me mires, y bueno de alguna forma esa fue mi llave para amarte incondionalmente",
+    description: "Pasaron los dias y en mi mente pasaban dos cosas, ¿Por qué nadie me llamaba la atencion tanto como tu?, y cual iba a ser la excusa perfecta para volver a salir contigo y no recuerdo pero por alguna razon dije que me debias un helado, ese dia que salimos por el helado, cuando te tomaste una foto con mi celular, era una foto de tus ojos, ver tus ojos siempre me han fasinado, asi estes enojada, feliz o triste siempre me va a gustar que me mires, y bueno de alguna forma esa fue mi llave para amarte incondionalmente",
     emoji: "🌔",
      image: "/images/5.jpg"
   },
