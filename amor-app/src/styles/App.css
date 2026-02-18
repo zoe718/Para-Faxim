@@ -1,0 +1,46 @@
+.app {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  background: #0a0a0a;
+}
+
+/* Hibisco azul gigante - esquina superior izquierda */
+.app::before {
+  content: '';
+  position: fixed;
+  top: -15%;
+  left: -10%;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(26, 58, 82, 0.4) 0%, transparent 70%);
+  filter: blur(60px);
+  pointer-events: none;
+  z-index: 0;
+  animation: pulseBlue 8s ease-in-out infinite;
+}
+
+/* Hibisco rojo gigante - esquina inferior derecha */
+.app::after {
+  content: '';
+  position: fixed;
+  bottom: -15%;
+  right: -10%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(139, 0, 0, 0.4) 0%, transparent 70%);
+  filter: blur(60px);
+  pointer-events: none;
+  z-index: 0;
+  animation: pulseRed 10s ease-in-out infinite;
+}
+
+@keyframes pulseBlue {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.1); }
+}
+
+@keyframes pulseRed {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.15); }
+}
