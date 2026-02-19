@@ -186,13 +186,13 @@ const reasons = [
   {
     id: 31,
     icon: Sparkles,
-    title: "Amo cuando estás triste",
+    title: "Te amo cuando estás triste",
     description: "",
   },
   {
     id: 32,
     icon: Flower2,
-    title: "Amo cuando estás enojada",
+    title: "Te amo cuando estás enojada",
     description: "",
   },
   {
@@ -306,7 +306,7 @@ const reasons = [
   {
     id: 51,
     icon: Star,
-    title: "Amo las cosas que no puedo decirte porque no me quiero ver desubicado",
+    title: "Amo las cosas que no puedo decir, porque no me quiero ver desubicado",
     description: "",
   },
   {
@@ -318,7 +318,7 @@ const reasons = [
   {
     id: 53,
     icon: Flower2,
-    title: "Amo que seas tú la mujer a la que le dedico esta página web",
+    title: "Amo que seas tú la mujer a la que le dedico esta página",
     description: "",
   },
   {
@@ -360,7 +360,7 @@ const reasons = [
   {
     id: 60,
     icon: Flower2,
-    title: "Amo cuando te llenas y me lo das",
+    title: "Amo cuando te llenas y me lo das lo que te sobro",
     description: "",
   },
   {
@@ -402,7 +402,7 @@ const reasons = [
   {
     id: 67,
     icon: Flower2,
-    title: "Amo que pueda hacer estas cosas, que yo hable y hable y jamás te aburras de mí, y me sigas mirando como si fuera la primera vez",
+    title: "Amo que hable y jamás te aburras de mí",
     description: "",
   },
   {
@@ -594,7 +594,7 @@ const reasons = [
   {
     id: 99,
     icon: Heart,
-    title: "Amo tu forma de amarme",
+    title: "Amo que me sigas mirando como si fuera la primera vez",
     description: "",
   },
   {
