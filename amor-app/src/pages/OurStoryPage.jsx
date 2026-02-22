@@ -44,7 +44,7 @@ const storySlides = [
   {
     id: 7,
     title: "¿Qué eres?",
-    description: "23 de octubre del 2023, a las 9:43pm enfrente de tu casa, reucuerdo que en ese momento mientras intentaba ligar jaja, contaba algo sobre un loquito que estaba cerca de tu casa, un vagabundo que se habia enamorado y por fin se le habia declarado, ese dia fue la primera ves que nos besamos, fueron mis primeros 15 minutos mas que pedi para estar contigo, esos 15 minutitos mas que para mi no son suficientes, se que tengo problemas con mis limites, pero siempre voy a querer estar contigo, me encanta estar contigo, dormir contigo, vivir contigo, cuento los dias para ser tu novio, cuento los dias para ser tu esposo, cuento los dias para ser el padre de tu hijo, cuento los dias, no es facil, pero tampoco es imposible, perdon si abrumo con tanto, perdon si siento tanto, si he mentido tanto que ya es dificil de leer esto pensando que todo esto son simples palabras al aire, estoy comprometido, se que voy tarde, ¿es prudente decirte esto ahora?. ",
+    description: "23 de octubre del 2023, a las 9:43pm enfrente de tu casa, recuerdo que en ese momento mientras intentaba ligar jaja, contaba algo sobre un loquito que estaba cerca de tu casa, un vagabundo que se habia enamorado y por fin se le habia declarado, ese dia fue la primera ves que nos besamos, fueron mis primeros 15 minutos mas que pedi para estar contigo, esos 15 minutitos mas que para mi no son suficientes, se que tengo problemas con mis limites, pero siempre voy a querer estar contigo, me encanta estar contigo, dormir contigo, vivir contigo, cuento los dias para ser tu novio, cuento los dias para ser tu esposo, cuento los dias para viajar juntos, para ver las auroras boreales juntos, cuento los dias para ser el padre de tu hijo, cuento los dias, no es facil, pero tampoco es imposible, perdon si abrumo con tanto, perdon si siento tanto, si he mentido tanto que ya es dificil de leer esto pensando que todo esto son simples palabras al aire, estoy comprometido, se que voy tarde, ¿es prudente decirte esto ahora?. ",
     emoji: "💜",
      image: "/images/7.jpg"
   },
@@ -116,7 +116,7 @@ const OurStoryPage = ({ onNavigate }) => {
       </button>
 
       <div className="story-container">
-        <h1 className="story-main-title">My page obsession</h1>
+        <h1 className="story-main-title">My obsession page</h1>
         
         <div className="carousel">
           <div className="slide" key={slide.id}>
